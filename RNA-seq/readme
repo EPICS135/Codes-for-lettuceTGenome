@@ -1,0 +1,8 @@
+The program can be used for mapping RNA-seq data with paired-reads and generate gene expression level. 
+
+#dependents 
+#bowtie2-2.2.9 
+#hisat2 
+#fastq 
+
+usage:perl 02_RNA-seq_for_gene_expression $ARGV[0]
